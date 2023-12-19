@@ -4,7 +4,7 @@ This project is a Red-is server implemented in C. It provides a set of basic Red
 
 ## Installation
 
-1.Clone this repository to your local system using the following command :
+Clone this repository to your local system using the following command :
 
 ```shell
 git clone https://github.com/RoKaTG/redis-server.git
@@ -20,7 +20,7 @@ Compile the server using the make command:
 ```shell
 make
 ```
-Usage
+##Usage
 
    Start the server by specifying a port number (e.g., 8080):
 
