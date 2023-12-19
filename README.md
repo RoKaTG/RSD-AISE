@@ -44,7 +44,7 @@ HELPER
 ```
    This will display a list of supported commands with their descriptions (unfortunately, the display is buggy in the client but appears perfectly on the server prompt).
 
-Supported Commands
+## Supported Commands
 
     PING: Tests server connectivity.
     SET key value: Sets the value of a key.
