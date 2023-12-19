@@ -1,4 +1,4 @@
-# Server Redis
+# Redis Server
 
 This project is a Red-is server implemented in C. It provides a set of basic Redis commands such as PING, SET, GET, DEL, and others. The purpose of this server is to serve as an educational example for understanding the internal workings of a server communicating with Redis.
 
