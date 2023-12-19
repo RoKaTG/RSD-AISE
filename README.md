@@ -20,7 +20,7 @@ Compile the server using the make command:
 ```shell
 make
 ```
-##Usage
+## Usage
 
    Start the server by specifying a port number (e.g., 8080):
 
